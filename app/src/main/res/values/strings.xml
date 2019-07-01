@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AndroidBarberStaffApp</string>
+    <string name="title_activity_staff_home">StaffHomeActivity</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+
+</resources>
